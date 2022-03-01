@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# bootcamp-DIO_MRV_clone-app-ifood
+Clone do home do app Ifood usando React Native com Expo
+>>>>>>> 28426f0a8c967f9e5c7ff1fd6632d8a7db165059
 
 <h1 align="center">
     IFOOD CLONE 
@@ -22,6 +27,9 @@
 
 <br>
 <br>
+<<<<<<< HEAD
 
 ## Obrigado
 <p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://linkedin.com/in/pablohev), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
+=======
+>>>>>>> 28426f0a8c967f9e5c7ff1fd6632d8a7db165059
